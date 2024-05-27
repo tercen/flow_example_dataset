@@ -1,0 +1,91 @@
+{
+ "kind": "TableSchema",
+ "id": "3289e029e1cb11d678d9b07f9f82972eda79351de67f3375d12c537545b0d221",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "Melanoma_Krieg_Channel_Descriptions",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "SHA256",
+   "value": "3289e029e1cb11d678d9b07f9f82972eda79351de67f3375d12c537545b0d221"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "0",
+ "nRows": 36,
+ "columns": [
+  {
+   "kind": "ColumnSchema",
+   "id": "cf2a12f5-a36f-413f-8e21-1b442d095e06",
+   "name": "channel_name",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "99e35fb8-368f-4aa6-b607-fe25e5f6fc56",
+   "name": "channel_description",
+   "type": "string",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  },
+  {
+   "kind": "ColumnSchema",
+   "id": "2691318f-8245-493d-9d86-9341c0572d30",
+   "name": "channel_id",
+   "type": "int32",
+   "nRows": 0,
+   "size": -1,
+   "metaData": {
+    "kind": "ColumnSchemaMetaData",
+    "sort": [],
+    "ascending": true,
+    "quartiles": [],
+    "properties": []
+   }
+  }
+ ],
+ "dataDirectory": "data/32/89/3289e029e1cb11d678d9b07f9f82972eda79351de67f3375d12c537545b0d221",
+ "relation": {
+  "kind": "Relation",
+  "id": "d2f21f4a-67f6-4878-b4fa-91ed1fc3b8d1"
+ }
+}

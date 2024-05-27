@@ -1,0 +1,64 @@
+{
+ "kind": "TableSchema",
+ "id": "1",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "Melanoma_Krieg_Dataset1_Panel1_tx_FR-FCM-ZY34",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "0",
+ "nRows": 0,
+ "columns": [],
+ "dataDirectory": "",
+ "relation": {
+  "kind": "CompositeRelation",
+  "id": "68c47731-3271-448b-a784-a8a957824b09",
+  "joinOperators": [
+   {
+    "kind": "JoinOperator",
+    "joinType": "leftOuter",
+    "leftPair": {
+     "kind": "ColumnPair",
+     "lColumns": [
+      "event_id"
+     ],
+     "rColumns": [
+      "event_id"
+     ]
+    },
+    "rightRelation": {
+     "kind": "SimpleRelation",
+     "id": "fba079236bc05de868496785eae1299d7b26c67dd9dedd17b7fc14ef15a27a1b",
+     "index": 0
+    }
+   }
+  ],
+  "mainRelation": {
+   "kind": "SimpleRelation",
+   "id": "030d7746e015bbedbd4d1ba9538b900096338643ccff50dca0fab4048d8d5731",
+   "index": 0
+  }
+ }
+}
