@@ -19,12 +19,19 @@
   "value": ""
  },
  "urls": [],
- "tags": [],
+ "tags": [
+  "flow cytometry"
+ ],
  "meta": [
   {
    "kind": "Pair",
    "key": "SHA256",
    "value": "8fc661c3c456b5ae9f460d4bef35a28d9a2480f0c5d35c839ec42ff63532d88c"
+  },
+  {
+   "kind": "Pair",
+   "key": "PUBLISHED",
+   "value": "true"
   }
  ],
  "url": {
