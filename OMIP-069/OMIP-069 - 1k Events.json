@@ -1,0 +1,72 @@
+{
+ "kind": "TableSchema",
+ "id": "3",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "OMIP-069 - 1k Events",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [
+  "flow cytometry"
+ ],
+ "meta": [
+  {
+   "kind": "Pair",
+   "key": "PUBLISHED",
+   "value": "true"
+  }
+ ],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "2",
+ "nRows": 0,
+ "columns": [],
+ "dataDirectory": "",
+ "relation": {
+  "kind": "CompositeRelation",
+  "id": "af2502ff-c57b-4704-a1f1-a92b9e3cc660",
+  "joinOperators": [
+   {
+    "kind": "JoinOperator",
+    "joinType": "leftOuter",
+    "leftPair": {
+     "kind": "ColumnPair",
+     "lColumns": [
+      "event_id"
+     ],
+     "rColumns": [
+      "event_id"
+     ]
+    },
+    "rightRelation": {
+     "kind": "SimpleRelation",
+     "id": "303c25f01cb978cdd86a575e61fae62f8075ee898fb9a44eedb3d86a4d61dfd4",
+     "index": 0
+    }
+   }
+  ],
+  "mainRelation": {
+   "kind": "SimpleRelation",
+   "id": "d4b9b860cb301bfdc5ce96d81c78284a945cc0055c91fb41ff002fa95a82d09a",
+   "index": 0
+  }
+ }
+}
