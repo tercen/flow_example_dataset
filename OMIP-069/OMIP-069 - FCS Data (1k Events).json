@@ -1,10 +1,10 @@
 {
  "kind": "TableSchema",
- "id": "3",
+ "id": "2",
  "isDeleted": false,
  "rev": "",
  "description": "",
- "name": "OMIP-069 - 1k Events",
+ "name": "OMIP-069 - FCS Data (1k Events)",
  "acl": {
   "kind": "Acl",
   "owner": "",
@@ -36,7 +36,7 @@
  "version": "",
  "isPublic": false,
  "projectId": "",
- "folderId": "2",
+ "folderId": "0",
  "nRows": 0,
  "columns": [],
  "dataDirectory": "",

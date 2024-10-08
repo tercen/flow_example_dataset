@@ -4,7 +4,7 @@
  "isDeleted": false,
  "rev": "",
  "description": "",
- "name": "OMIP-069_Channel_Descriptions",
+ "name": "OMIP-069 - Channel Descriptions",
  "acl": {
   "kind": "Acl",
   "owner": "",
@@ -41,7 +41,7 @@
  "version": "",
  "isPublic": false,
  "projectId": "",
- "folderId": "2",
+ "folderId": "0",
  "nRows": 46,
  "columns": [
   {

@@ -1,6 +1,6 @@
 {
  "kind": "TableSchema",
- "id": "1",
+ "id": "3",
  "isDeleted": false,
  "rev": "",
  "description": "",
@@ -36,7 +36,7 @@
  "version": "",
  "isPublic": false,
  "projectId": "",
- "folderId": "0",
+ "folderId": "1",
  "nRows": 0,
  "columns": [],
  "dataDirectory": "",

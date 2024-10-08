@@ -1,10 +1,10 @@
 {
  "kind": "TableSchema",
- "id": "1a8ebde8157c4cf4d6842e11ea7bdafdfaefa44e0f466d7ca093716b60135045",
+ "id": "6f7ccffd77e2b966d986b5afe9d23542a6baed390bebae1d3c175dde4c0a67cd",
  "isDeleted": false,
  "rev": "",
  "description": "",
- "name": "OMIP-069 - Channel Descriptions",
+ "name": "OMIP-069 - Sample Annotation.txt",
  "acl": {
   "kind": "Acl",
   "owner": "",
@@ -19,19 +19,12 @@
   "value": ""
  },
  "urls": [],
- "tags": [
-  "flow cytometry"
- ],
+ "tags": [],
  "meta": [
   {
    "kind": "Pair",
-   "key": "PUBLISHED",
-   "value": "true"
-  },
-  {
-   "kind": "Pair",
    "key": "SHA256",
-   "value": "1a8ebde8157c4cf4d6842e11ea7bdafdfaefa44e0f466d7ca093716b60135045"
+   "value": "6f7ccffd77e2b966d986b5afe9d23542a6baed390bebae1d3c175dde4c0a67cd"
   }
  ],
  "url": {
@@ -42,12 +35,12 @@
  "isPublic": false,
  "projectId": "",
  "folderId": "0",
- "nRows": 46,
+ "nRows": 4,
  "columns": [
   {
    "kind": "ColumnSchema",
-   "id": "75a306bc-e672-4340-baec-e6f62018f686",
-   "name": "channel_name",
+   "id": "e959487c-bcd3-418b-a199-3b0576a76fae",
+   "name": "filename",
    "type": "string",
    "nRows": 0,
    "size": -1,
@@ -61,24 +54,9 @@
   },
   {
    "kind": "ColumnSchema",
-   "id": "d12c9192-7cf9-4083-8337-374f93e40855",
-   "name": "channel_description",
+   "id": "d288ae8a-6539-4252-b635-41e14483fefd",
+   "name": "Condition",
    "type": "string",
-   "nRows": 0,
-   "size": -1,
-   "metaData": {
-    "kind": "ColumnSchemaMetaData",
-    "sort": [],
-    "ascending": true,
-    "quartiles": [],
-    "properties": []
-   }
-  },
-  {
-   "kind": "ColumnSchema",
-   "id": "52f5a735-26a0-42bb-95f7-204656cef668",
-   "name": "channel_id",
-   "type": "int32",
    "nRows": 0,
    "size": -1,
    "metaData": {
@@ -90,9 +68,9 @@
    }
   }
  ],
- "dataDirectory": "data/1a/8e/1a8ebde8157c4cf4d6842e11ea7bdafdfaefa44e0f466d7ca093716b60135045",
+ "dataDirectory": "data/6f/7c/6f7ccffd77e2b966d986b5afe9d23542a6baed390bebae1d3c175dde4c0a67cd",
  "relation": {
   "kind": "Relation",
-  "id": "04aeba4e-f0a3-4c60-a220-af03e24e19c7"
+  "id": "d04ba2ea-a676-46c8-bb7a-388880e70704"
  }
 }
